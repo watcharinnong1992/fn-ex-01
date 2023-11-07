@@ -41,4 +41,4 @@ jobs:
           app-name: 'fn-ex-01'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECD2B3039BDC4D86B99E6A2E18C79B98 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E4F8C99B84941D89606DD0BA8279483 }}
